@@ -1,0 +1,9 @@
+com.example.nutrimeal
+com.example.nutrimeal.controller
+com.example.nutrimeal.model
+com.example.nutrimeal.model.enumeration
+com.example.nutrimeal.model.enumeration.converter
+com.example.nutrimeal.repository
+com.example.nutrimeal.security
+com.example.nutrimeal.service
+utils
